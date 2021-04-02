@@ -1,17 +1,17 @@
-INTEGRANTES:
+########## Projeto Labefoods ##########
 
-Alexandre Oliveira,
+# Descrição
 
-Ana Patrícia Monteiro,
+Projeto de front-end em grupo da Labenu usando react.js. Nesse projeto tivemos que criar um site parecido com sites de venda de comida, tais como Rappi, UberEats,  etc. 
 
-Isabela Rocha Silveira,
+# Tecnologias Usadas
 
-Lilian Aparecida Verônica Nicolau,
-
-Vinicius Silveira Moraes,
-
-Patrícia de Abreu Otarão
-
+1. React;
+2. Hooks `useState` e `useEffect`;
+3. Autenticação;
+4. Uso de bibliotecas de UI;
+5. Aplicações com múltiplas rotas utilizando React Router;
+6. Formulários com Validação.
 
 Link do Surge:
 
@@ -20,23 +20,4 @@ Link do Surge:
 Tema escolhido:
 - Rappi4
 
-O que funciona:
-- rotas
-- tela de entrada (splash screen)
-- sign up
-- login
-- cadastro de endereço
-- feed
-- filtro de categorias (basta clicar em cima da categoria)
-- detalhes do restaurante
-- filtro por categorias dos itens
-- perfil
-- função editar perfil
-- função editar endereço
-- responsivo
 
-O que não funciona:
-- estilização do feed
-- search
-- quantidade desejada dos itens no restaurante
-- carrinho e suas funções (adicionar, remover, somar, subtotal)
